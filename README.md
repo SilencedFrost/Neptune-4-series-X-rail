@@ -11,6 +11,8 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+![Thumbnail](Images/Thumbnail.png)
+
 ## Introduction
 
 The design allows you to put a front mounted MGN12H linear rail on the neptune 4 series, currently it's in beta and highly experimental
