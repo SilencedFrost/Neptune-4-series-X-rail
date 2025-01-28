@@ -17,6 +17,18 @@ The design allows you to put a front mounted MGN12H linear rail on the neptune 4
 
 Earliest testing data yielded a 20% increase in recommended accel via input shaping(IS), with a reduction in vibrations and corner smoothing
 
+# Features
+- Improved COM placement
+- Increased rigidity
+- Proper parallel belt path
+- Increase movement accuracy, toolhead rigidity
+- Lowers the gantry compared to toolhead -> z cable bracket no longer hitting tie rods
+- Retains most mod compatibilty (cable chains, fan mods, etc)
+# Cons:
+- 8mm loss in Y axis compared to stock
+- Renders the aux fan null
+- Requires skill, hardware, and machine tuning
+
 🤩 Do you like the design? You can help fund innovations like this!
 
 [Consider supporting me!](https://buymeacoffee.com/silencedfrost)
