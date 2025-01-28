@@ -23,7 +23,7 @@ Earliest testing data yielded a 20% increase in recommended accel via input shap
 - Proper parallel belt path
 - Increase movement accuracy, toolhead rigidity
 - Lowers the gantry compared to toolhead -> z cable bracket no longer hitting tie rods
-- Retains most mod compatibilty (cable chains, fan mods, etc)
+- Retains most mod compatibility (cable chains, fan mods, etc)
 ### Cons:
 - 8mm loss in Y axis compared to stock
 - Renders the aux fan null
