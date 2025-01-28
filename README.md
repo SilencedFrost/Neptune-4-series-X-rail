@@ -9,3 +9,13 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Introduction
+
+🤩 Do you like the design?
+
+[Consider supporting me!](https://buymeacoffee.com/silencedfrost) It immensely help me design more models like this!
+
+Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requests)
+
+## Bom
