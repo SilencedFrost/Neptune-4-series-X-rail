@@ -1,4 +1,4 @@
-# Neptune-4-series-X-rail
+# Neptune 4 series X rail
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
