@@ -37,9 +37,10 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |M3x35mm BHCS                  |2     |                        |
 |M3x40mm BHCS                  |2     |                        |
 |M3x16mm BHCS                  |4     |                        |
+|M3x12mm BHCS                  |2     |                        |
 |M3x6mm FHCS                   |4     |                        |
 |M3x10mm FHCS                  |1     |                        |
-|M3x12mm BHCS                  |2     |                        |
+|M3 Hex/Square nut             |4     |                        |
 |M4x8 BHCS                     |4     |                        |
 |M4 T-nuts                     |4     |                        |
 |M3x8mm SHCS                   |plenty|                        |
