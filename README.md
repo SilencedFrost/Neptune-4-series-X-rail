@@ -68,3 +68,15 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |Base/pro|295mm-325mm|355mm           |790mm |
 |Plus    |380mm-410mm|440mm           |960mm |
 |Max     |480mm-510mm|540mm           |1160mm|
+
+## Print settings
+
+STL wasn't accounted for shrinkage, compensate as needed
+
+### Minimum:
+- 3 walls
+- 1 mm top-bottom
+### Recommended
+- 5 walls
+- 1.6mm top-bottom
+- 0.2mm layer height
