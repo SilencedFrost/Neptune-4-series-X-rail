@@ -1,4 +1,5 @@
 # Neptune-4-series-X-rail
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
@@ -30,6 +31,8 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |------------------------------|------|------------------|
 |MGN12 high preload linear rail|1     |Youmetong Z2      |
 |EU profile aluminum extrusion |1     |                  |
+
+### Rail and extrusion lengths
 
 |Model   |Rail length|Extrusion length|
 |--------|-----------|----------------|
