@@ -12,6 +12,10 @@ This work is licensed under a
 
 ## Introduction
 
+The design allows you to put a front mounted MGN12H linear rail on the neptune 4 series, currently it's in beta and highly experimental
+
+Earliest testing data yielded a 20% increase in recommended accel via input shaping(IS), with a reduction in vibrations and corner smoothing
+
 🤩 Do you like the design?
 
 [Consider supporting me!](https://buymeacoffee.com/silencedfrost) It immensely help me design more models like this!
