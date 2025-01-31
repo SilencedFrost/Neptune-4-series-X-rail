@@ -86,4 +86,4 @@ STL wasn't accounted for shrinkage, compensate as needed
 
 ![Insert 2 into main piece](Images/"Main piece - heatset insert.png")
 
-![Insert 2 into adapter piece](Images/"Adapter piece - heatset insert.png")
+![Insert 2 into adapter piece](Images/Adapter%20piece%20-%20heatset%20insert.png)
