@@ -50,7 +50,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |Filament                      |      |PETG-GF/CF or ABS/ASA   |
 |M3x35mm BHCS                  |2     |                        |
 |M3x40mm BHCS                  |2     |                        |
-|M3x14mm BHCS                  |4     |                        |
+|M3x16mm BHCS                  |4     |                        |
 |M3x6mm FHCS                   |4     |                        |
 |M3x10mm FHCS                  |1     |                        |
 |M3 Hex/Square nut             |4     |                        |
