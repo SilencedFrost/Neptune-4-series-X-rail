@@ -94,3 +94,11 @@ STL wasn't accounted for shrinkage, compensate as needed
 ### Assembling drill guide tool
 
 ![Assembling drill guide](Images/Extrusion%20drill%20jig%20-%20assembly.png)
+
+![Putting drill guide on](Images/Extrusion%20drill%20jig%20-%20assembly2.png)
+
+### Drilling the extrusion
+
+Run at high rpm and feed the drillbit in slowly, or else it'll bite on the aluminum and you'll have a bad time! hold the extrusion down tight
+
+![Drilling extrusion](Images/Extrusion%20-%20drill.png)
