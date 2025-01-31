@@ -15,21 +15,21 @@ This work is licensed under a
 
 ## Introduction
 
-The design allows you to put a front mounted MGN12H linear rail on the neptune 4 series, currently it's in beta and highly experimental
+The design allows you to put a front mounted MGN12H linear rail on the neptune 4 series, currently it's in beta and highly experimental.
 
-Earliest testing data yielded a 20% increase in recommended accel via input shaping(IS), with a reduction in vibrations and corner smoothing using nozzle adxl
+Earliest testing data yielded a 20% increase in recommended accel via input shaping(IS), with a reduction in vibrations and corner smoothing using nozzle adxl.
 
 ### Features
-- Improved COM placement
-- Increased rigidity
-- Proper parallel belt path
-- Increase movement accuracy, toolhead rigidity
-- Lowers the gantry compared to toolhead -> z cable bracket no longer hitting tie rods
-- Retains most mod compatibility (cable chains, fan mods, etc)
+- Improved COM placement.
+- Increased rigidity.
+- Proper parallel belt path.
+- Increase movement accuracy, toolhead rigidity.
+- Lowers the gantry compared to toolhead -> z cable bracket no longer hitting tie rods.
+- Retains most mod compatibility (cable chains, fan mods, etc).
 ### Cons:
-- 8mm loss in Y axis compared to stock
-- Renders the aux fan null
-- Requires skill, hardware, and machine tuning
+- 8mm loss in Y axis compared to stock.
+- Renders the aux fan null.
+- Requires skill, hardware, and machine tuning.
 
 🤩 Do you like the design? You can help fund innovations like this!
 
@@ -72,15 +72,15 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 
 ## Print settings
 
-STL wasn't accounted for shrinkage, compensate as needed
+STL wasn't accounted for shrinkage, compensate as needed.
 
 ### Minimum:
-- 3 walls
-- 1 mm top-bottom
+- 3 walls.
+- 1 mm top-bottom.
 ### Recommended
-- 5 walls
-- 1.6mm top-bottom
-- 0.2mm layer height
+- 5 walls.
+- 1.6mm top-bottom.
+- 0.2mm layer height.
 
 # Assembly guide
 
@@ -99,8 +99,8 @@ STL wasn't accounted for shrinkage, compensate as needed
 
 ### Drilling the extrusion
 
-Run at high rpm and feed the drillbit in slowly, or else it'll bite on the aluminum and you'll have a bad time! hold the extrusion down tight
+Run at high rpm and feed the drillbit in slowly, or else it'll bite on the aluminum and you'll have a bad time! Hold the extrusion down tight.
 
-There's no need to drill deeper than the first top flange
+There's no need to drill deeper than the first top flange.
 
 ![Drilling extrusion](Images/Extrusion%20-%20drill.png)
