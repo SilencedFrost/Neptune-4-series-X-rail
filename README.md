@@ -81,3 +81,9 @@ STL wasn't accounted for shrinkage, compensate as needed
 - 5 walls
 - 1.6mm top-bottom
 - 0.2mm layer height
+
+# Assembly guide
+
+![Insert 2 into main piece](Images/Main piece - heatset insert.png)
+
+![Insert 2 into adapter piece](Images/Adapter piece - heatset insert.png)
