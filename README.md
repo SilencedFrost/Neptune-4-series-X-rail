@@ -101,4 +101,6 @@ STL wasn't accounted for shrinkage, compensate as needed
 
 Run at high rpm and feed the drillbit in slowly, or else it'll bite on the aluminum and you'll have a bad time! hold the extrusion down tight
 
+There's no need to drill deeper than the first top flange
+
 ![Drilling extrusion](Images/Extrusion%20-%20drill.png)
