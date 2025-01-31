@@ -104,3 +104,5 @@ Run at high rpm and feed the drillbit in slowly, or else it'll bite on the alumi
 There's no need to drill deeper than the first top flange.
 
 ![Drilling extrusion](Images/Extrusion%20-%20drill.png)
+
+![Ensure both ends drilled](Images/Extrusion%20-%20ensure.png)
