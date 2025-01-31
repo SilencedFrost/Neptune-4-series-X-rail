@@ -84,9 +84,13 @@ STL wasn't accounted for shrinkage, compensate as needed
 
 # Assembly guide
 
-### Inserting heatsets
+## Inserting heatsets
 
 ![Insert 2 into main piece](Images/Main%20piece%20-%20heatset%20insert.png)
 ![Insert 2 into adapter piece](Images/Adapter%20piece%20-%20heatset%20insert.png)
 
-### Preparing extrusion
+## Preparing extrusion
+
+### Assembling drill guide tool
+
+![Assembling drill guide](Images/Extrusion%20drill%20jig%20-%20assembly.png)
