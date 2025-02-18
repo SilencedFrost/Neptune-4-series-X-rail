@@ -67,7 +67,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |Model   |Rail       |Extrusion       |Belt  |
 |--------|-----------|----------------|------|
 |Base/pro|295mm-325mm|355mm           |820mm |
-|Plus    |380mm-410mm|440mm           |1000mm|
+|Plus    |400mm-430mm|460mm           |1040mm|
 |Max     |480mm-510mm|540mm           |1200mm|
 
 ### Note: get highest preload option the brand offers
