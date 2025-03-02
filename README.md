@@ -43,7 +43,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 
 |Item                         |Amount|Recommended source                                             |
 |-----------------------------|------|---------------------------------------------------------------|
-|MGN12H linear rail           |1     |[Youmetong Z2](/www.aliexpress.com/item/1005001463833841.html?)|
+|MGN12H linear rail           |1     |[Youmetong Z2](www.aliexpress.com/item/1005001463833841.html?) |
 |EU profile aluminum extrusion|1     |[MS N Metal fitting](https://s.click.aliexpress.com/e/_oCB5XCB)|
 |Gates gt2/edpm gt2 6mm belt  |1     |[Mellow Ali](https://s.click.aliexpress.com/e/_oFvKV4n)        |
 |Lithium grease               |      |Mobilux EP2/Mobil XHP222                                       |
