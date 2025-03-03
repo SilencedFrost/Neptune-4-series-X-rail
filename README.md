@@ -60,7 +60,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |M3 T-nuts                    |plenty|                                                                       |
 |M3 heat inserts (<4.7mm OD)  |4     |                                                                       |
 |10mm metal drillbit          |1     |                                                                       |
-|6900-2rs                     |1     |                                                                       |
+|6900-2rs                     |1     |[6900-2rs](https://s.click.aliexpress.com/e/_okwDcDg)             |
 
 ### Rail, extrusion, and belt lengths
 
