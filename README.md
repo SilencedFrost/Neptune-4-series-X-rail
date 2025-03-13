@@ -41,26 +41,26 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 
 ## BOM (Only listing extra parts, no stock)
 
-|Item                         |Amount|Recommended source                                                     |
-|-----------------------------|------|-----------------------------------------------------------------------|
-|MGN12H linear rail           |1     |[Youmetong Z2](https://www.aliexpress.com/item/1005001463833841.html?) |
-|EU profile aluminum extrusion|1     |[MS N Metal fitting](https://s.click.aliexpress.com/e/_oCB5XCB)        |
-|Gates gt2/edpm gt2 6mm belt  |1     |[Mellow Ali](https://s.click.aliexpress.com/e/_oFvKV4n)                |
-|Lithium grease               |      |Mobilux EP2/Mobil XHP222                                               |
-|Filament                     |      |PETG-GF/CF or ABS/ASA                                                  |
-|M3x35mm BHCS                 |2     |                                                                       |
-|M3x40mm BHCS                 |2     |                                                                       |
-|M3x16mm BHCS                 |4     |                                                                       |
-|M3x6mm FHCS                  |4     |                                                                       |
-|M3x10mm FHCS                 |1     |                                                                       |
-|M3 Hex/Square nut            |4     |                                                                       |
-|M4x8 BHCS                    |4     |                                                                       |
-|M4 T-nuts                    |4     |                                                                       |
-|M3x8mm SHCS                  |plenty|                                                                       |
-|M3 T-nuts                    |plenty|                                                                       |
-|M3 heat inserts (<4.7mm OD)  |4     |                                                                       |
-|10mm metal drillbit          |1     |                                                                       |
-|6900-2rs                     |1     |[6900-2rs](https://s.click.aliexpress.com/e/_okwDcDg)             |
+|Item                         |Amount|Recommended source                                                         |
+|-----------------------------|------|---------------------------------------------------------------------------|
+|MGN12H linear rail           |1     |[Youmetong Z2](https://www.aliexpress.com/item/1005001463833841.html?)     |
+|EU profile aluminum extrusion|1     |[MS N Metal fitting(Affiliated)](https://s.click.aliexpress.com/e/_oCB5XCB)|
+|Gates gt2/edpm gt2 6mm belt  |1     |[Mellow Ali(Affiliated)](https://s.click.aliexpress.com/e/_oFvKV4n)        |
+|Lithium grease               |      |Mobilux EP2/Mobil XHP222                                                   |
+|Filament                     |      |PETG-GF/CF or ABS/ASA and above                                            |
+|M3x35mm BHCS                 |2     |                                                                           |
+|M3x40mm BHCS                 |2     |                                                                           |
+|M3x16mm BHCS                 |4     |                                                                           |
+|M3x6mm FHCS                  |4     |                                                                           |
+|M3x10mm FHCS                 |1     |                                                                           |
+|M3 Hex/Square nut            |4     |                                                                           |
+|M4x8 BHCS                    |4     |                                                                           |
+|M4 T-nuts                    |4     |                                                                           |
+|M3x8mm SHCS                  |plenty|                                                                           |
+|M3 T-nuts                    |plenty|                                                                           |
+|M3 heat inserts (<4.7mm OD)  |4     |                                                                           |
+|10mm metal drillbit          |1     |                                                                           |
+|6900-2rs                     |1     |[6900-2rs(Affiliated)](https://s.click.aliexpress.com/e/_okwDcDg)          |
 
 ### Rail, extrusion, and belt lengths
 
