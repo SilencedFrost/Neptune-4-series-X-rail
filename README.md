@@ -89,6 +89,7 @@ STL wasn't accounted for shrinkage, compensate as needed.
 ## Inserting heatsets
 
 ![Insert 2 into main piece](Images/Main%20piece%20-%20heatset%20insert.png)
+
 ![Insert 2 into adapter piece](Images/Adapter%20piece%20-%20heatset%20insert.png)
 
 ## Drilling extrusion x2 (One hole for each end)
@@ -108,3 +109,9 @@ There's no need to drill deeper than the first top flange.
 ![Drilling extrusion](Images/Extrusion%20-%20drill.png)
 
 ![Ensure both ends drilled](Images/Extrusion%20-%20ensure.png)
+
+## Mounting the rail
+
+![TNuts and Alignment](Images/Extrusion%20-%20mounting%20rails1.png)
+
+![Screwing down](Images/Extrusion%20-%20mounting%20rails2.png)
