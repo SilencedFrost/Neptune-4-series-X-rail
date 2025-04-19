@@ -70,7 +70,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 |Plus    |400mm-430mm|460mm           |1040mm|
 |Max     |480mm-510mm|540mm           |1200mm|
 
-### Note: get highest preload option the brand offers
+### Note: get highest preload option the brand offers for budget rails
 
 ## Print settings
 
