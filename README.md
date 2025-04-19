@@ -115,3 +115,77 @@ There's no need to drill deeper than the first top flange.
 ![TNuts and Alignment](Images/Extrusion%20-%20mounting%20rails1.png)
 
 ![Screwing down](Images/Extrusion%20-%20mounting%20rails2.png)
+
+## Disassembling stock gantry
+
+### Taking out the gantry
+
+Take off the toolhead + cabling
+
+Remove the top brackets, bar, and z belt + pulleys
+
+Pull the X gantry out the top
+
+### Disassembling stock gantry
+
+Remove 2 endcap covers
+
+Remove the X belt
+
+Undo 4 M4 screws holding the brackets to the beam
+
+Remove the M3 TNut on the new beam (from the drill jig)
+
+Insert 4 M4 TNuts corresponding to where the bracket holes are
+
+## Assembling the new gantry
+
+### Putting on the beam
+
+Loosely screw on the brackets with 4 M4x8 BHCS
+
+Put the assembly back onto the z extrusions
+
+Tram the gantry, adjust eccentric nuts
+
+Tighten 3 out of the 4 accessible M4 screws
+
+Take the gantry out again
+
+Tighten the last M4 screw
+
+Put the assembly back onto the z extrusions
+
+Tram the gantry
+
+Put back the z belts, top beam, top brackets, loosely screw the top brackets in place
+
+Run the gantry to max height with synchonized z
+
+Tighten the top brackets
+
+Why all this you ask? you just perfectly trammed your gantry and made sure the z beams are parallel!
+
+## Final assembly of the adapter
+
+### Preparations
+
+Install the MGN12H cart via 4 M3x6 FHCS
+
+Insert 4 M3 Hex/Square nuts into the recesses of the belt clamp
+
+Screw on the toolhead adapter onto the toolhead with M3x10mm FHCS
+
+### Assembly
+
+Slide the carriage onto the rail
+
+Install the belt with the belt clamps with 4 M3x16mm BHCS
+
+(Optional) Install Lamarc's chain with 2 M3x8mm FHCS
+
+Install the toolhead
+
+
+
+
