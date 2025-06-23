@@ -42,6 +42,7 @@ Submit feature requests [here!](https://trello.com/b/vacGVoLQ/cad-modelling-requ
 ## BOM (Only listing extra parts, no stock)
 
 I'll get a commission if you shop here!
+
 [SF-Affiliate-landing-page](https://silencedfrostaff.carrd.co/)
 
 |Item                         |Amount|Recommended source                                  |
