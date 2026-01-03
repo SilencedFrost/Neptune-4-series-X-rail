@@ -48,7 +48,7 @@ I'll get a commission if you shop here!
 |Item                         |Amount|Recommended source                                  |
 |-----------------------------|------|----------------------------------------------------|
 |MGN12H linear rail           |1     |Youmetong MGN12H_z2 / BSTMotion stainless MGN12H_z2 |
-|EU profile aluminum extrusion|1     |                                                    |
+|EU profile 2020 extrusion    |1     |                                                    |
 |Gates gt2/edpm gt2 6mm belt  |1     |Mellow                                              |
 |Lithium grease               |      |Mobilux EP2/Mobil XHP222                            |
 |Filament                     |      |PETG-GF/CF or ABS/ASA and above                     |
